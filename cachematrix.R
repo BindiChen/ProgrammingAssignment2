@@ -5,7 +5,7 @@
 
 makeCacheMatrix <- function(x = matrix()) {
 
-        x_new <- solve(X)
+        x_new <- solve(X) # the Inverse of Matrix x
 
 }
 
